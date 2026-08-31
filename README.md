@@ -5,7 +5,8 @@ A second-year Mathematical Computation student at UCL interested in the intersec
 ### 🚀 What I'm working on
 
 * ⚡ **C++ Trading Systems** — currently building a limit order book and market microstructure engine
-* 🧮 **Mathematical Finance** — Monte Carlo option pricing and implied volatility modelling
+* 🧮 **Mathematical Finance** — A python project exploring Monte Carlo methods for derivative pricing, with a focus on numerical methods, convergence, and quantitative finance applications by analysing a self-constructed options impleid volatility framework.
+
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,8 +23,8 @@ A second-year Mathematical Computation student at UCL interested in the intersec
 **Multi-Factor Alpha Signal Detector & Backtesting Engine**
 A quantitative trading project combining financial features, gradient-descent regression, signal generation, position sizing, transaction costs, and portfolio performance analysis.
 
-**Monte Carlo Option Pricing Engine**
-A python project exploring Monte Carlo methods for derivative pricing, with a focus on numerical methods, convergence, and quantitative finance applications by analysing a self-constructed options impleid volatility framework.
+**Options Implied Volatility Surface Framework**
+An implied volatility surface framework from historical options data, market mid-price calculation, time-to-maturity computation, and integration of underlying prices and Treasury rates Implemented Black–Scholes call/put pricing and numerical implied-volatility inversion using Brent’s root-finding method
 
 
 ### 📫 Connect
