@@ -1,4 +1,6 @@
-Hi, I'm Aabhas, a second-year Mathematical Computation student at UCL interested in the intersection of quantitative research and ML. I enjoy applying statistical and computational techniques to complex datasets to uncover patterns, generate insights, and develop systematic approaches to financial problems.
+Hi, I'm Aabhas
+
+A second-year Mathematical Computation student at UCL interested in the intersection of quantitative research and ML. I enjoy applying statistical and computational techniques to complex datasets to uncover patterns, generate insights, and develop systematic approaches to financial problems.
 
 ### 🚀 What I'm working on
 
