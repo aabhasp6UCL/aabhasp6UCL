@@ -8,18 +8,16 @@ I'm a second-year Mathematical Computation student at UCL with an interest in ap
 
 ### 🚀 What I'm working on
 
-* 📈 **Quantitative Finance** — alpha signals, factor models, backtesting, and market microstructure
-* ⚡ **C++ Trading Systems** — currently building a limit order book and matching engine
+* 📈 **Quantitative Finance** — ML, alpha signals, factor models, backtesting, 
+* ⚡ **C++ Trading Systems** — currently building a limit order book and market microstructure engine
 * 🧮 **Mathematical Finance** — Monte Carlo option pricing and implied volatility modelling
-* 🤖 **Machine Learning** — statistical modelling and signal generation
-* 💻 **Algorithms & Data Structures** — developing strong foundations in computational problem solving
 
-### 🛠️ Technologies
-
-**Languages**
-
-`Python` `C++` `Java` `C` `Haskell`
-
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 **Libraries & Tools**
 
 `NumPy` `Pandas` `Matplotlib` `yfinance` `Git` `GitHub`
