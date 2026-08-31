@@ -1,10 +1,4 @@
-# Hi, I'm Aabhas 👋
-
-🎓 **MEng Mathematical Computation @ UCL**
-📍 London, UK
-💻 Interested in **Quantitative Finance · Algorithms · Mathematical Modelling · Software Engineering**
-
-I'm a second-year Mathematical Computation student at UCL with an interest in applying mathematics, statistics, and computer science to problems in quantitative finance and trading.
+Hi, I'm Aabhas, a second-year Mathematical Computation student at UCL interested in the intersection of quantitative research and ML. I enjoy applying statistical and computational techniques to complex datasets to uncover patterns, generate insights, and develop systematic approaches to financial problems.
 
 ### 🚀 What I'm working on
 
@@ -18,8 +12,8 @@ I'm a second-year Mathematical Computation student at UCL with an interest in ap
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-**Libraries & Tools**
 
+**Libraries & Tools**
 `NumPy` `Pandas` `Matplotlib` `yfinance` `Git` `GitHub`
 
 ### 📌 Featured Projects
@@ -28,19 +22,11 @@ I'm a second-year Mathematical Computation student at UCL with an interest in ap
 A quantitative trading project combining financial features, gradient-descent regression, signal generation, position sizing, transaction costs, and portfolio performance analysis.
 
 **Limit Order Book & Matching Engine**
-A C++ market microstructure engine implementing an order book, price-time priority, order matching, and trade execution. Building towards an order-flow and market-event simulation framework.
+A C++ market microstructure engine implementing an order book, price-time priority, order matching, and trade execution, eventually creating an order-flow and market-event simulation framework. Building towards a research question : "Can short-term order-flow and limit-order-book microstructure features be used to predict the direction and magnitude of near_term price movements"
 
 **Monte Carlo Option Pricing Engine**
-A C++ project exploring Monte Carlo methods for derivative pricing, with a focus on numerical methods, convergence, and quantitative finance applications.
+A python project exploring Monte Carlo methods for derivative pricing, with a focus on numerical methods, convergence, and quantitative finance applications by analysing a self-constructed options impleid volatility framework.
 
-### 📚 Currently Learning
-
-* Market microstructure
-* Stochastic processes & mathematical finance
-* Numerical methods
-* Advanced C++
-* Statistical modelling
-* Quantitative trading strategies
 
 ### 📫 Connect
 
