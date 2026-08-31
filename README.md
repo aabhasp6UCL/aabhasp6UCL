@@ -24,7 +24,7 @@ A second-year Mathematical Computation student at UCL interested in the intersec
 A quantitative trading project combining financial features, gradient-descent regression, signal generation, position sizing, transaction costs, and portfolio performance analysis.
 
 **Options Implied Volatility Surface Framework**
-An implied volatility surface framework from historical options data, market mid-price calculation, time-to-maturity computation, and integration of underlying prices and Treasury rates Implemented Black–Scholes call/put pricing and numerical implied-volatility inversion using Brent’s root-finding method
+An implied volatility surface framework from historical options data, market mid-price calculation, time-to-maturity computation, and integration of underlying prices and Treasury rates Implemented Black–Scholes call/put pricing and numerical implied-volatility inversion using Brent’s root-finding method.
 
 
 ### 📫 Connect
