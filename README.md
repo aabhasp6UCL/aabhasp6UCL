@@ -15,8 +15,11 @@ A second-year Mathematical Computation student at UCL interested in the intersec
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-**Libraries & Tools**
-`NumPy` `Pandas` `Matplotlib` `yfinance` `Git` `GitHub`
+### 📚 Libraries & Tools
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-800080?style=for-the-badge&logo=yahoo&logoColor=white)
 
 ### 📌 Featured Projects
 
