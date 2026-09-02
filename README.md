@@ -6,8 +6,8 @@ interested in the intersection of quantitative research and ML. I enjoy applying
 
 ### 🚀 What I'm working on
 
-* ⚡ **C++ Trading Systems** — currently building a limit order book and market microstructure engine
-* 🧮 **Mathematical Finance** — A python project exploring Monte Carlo methods for derivative pricing, with a focus on numerical methods, convergence, and quantitative finance applications by analysing a self-constructed options impleid volatility framework.
+* ⚡ **C++ Trading Systems** —currently building on the limit order book and market microstructure engine - construct short-horizon predictive signals from LOB state variables, trade flow, liquidity imbalance, and market activity.
+* 🧮 **Financial modelling** — Looking to further develop the options implied volatility surface project - looking to further explore Monte Carlo methods for derivative pricing, with a focus on numerical methods, convergence, and quantitative finance applications by analysing a self-constructed options impleid volatility framework.
 
 
 ### 🛠️ Tech Stack
@@ -32,6 +32,9 @@ A quantitative trading project combining financial features, gradient-descent re
 
 **Options Implied Volatility Surface Framework**
 An implied volatility surface framework from historical options data, market mid-price calculation, time-to-maturity computation, and integration of underlying prices and Treasury rates Implemented Black–Scholes call/put pricing and numerical implied-volatility inversion using Brent’s root-finding method.
+
+**Event-Driven-LOB-Market-Microstrucure-Simulator**
+A modular C++ limit order book and price-time-priority matching engine using object-oriented design, supporting order submission, modification, cancellation and trade execution with bid/ask book management. Implements historical order-flow ingestion, transforming timestamped exchange messages into structured market events for sequential order-book reconstruction and simulation
 
 
 ### 📫 Connect
